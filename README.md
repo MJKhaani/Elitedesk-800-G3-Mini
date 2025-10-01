@@ -1,7 +1,7 @@
 # 💻 Hackintosh – HP EliteDesk 800 G3 Mini
 
 <p align="center">
-  <img src="images/device.jpg" alt="HP EliteDesk 800 G3 Mini" width="400"/>
+  <img src="images/screen.jpg" alt="Screen Shot" width="700"/>
 </p>
 
 ---
@@ -25,6 +25,10 @@
 - 🚀 **Bootloader:** OpenCore 1.0.6
 
 ---
+
+<p align="center">
+  <img src="images/device.jpg" alt="HP EliteDesk 800 G3 Mini" width="400"/>
+</p>
 
 ## ✅ What Works / ❌ What Doesn’t
 
