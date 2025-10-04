@@ -63,7 +63,7 @@ sudo pmset tcpkeepalive 0
 | CPU / iGPU    | ✅              |
 | Ethernet      | ✅              |
 | Audio         | ✅              |
-| Sleep / Wake  | ⚠️ (Wake issue) |
+| Sleep / Wake  | ✅              |
 | DRM           | ❌               |
 | NVMe SSD      | ✅              |
 | USB           | ✅              |
