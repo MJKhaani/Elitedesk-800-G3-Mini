@@ -37,7 +37,7 @@
 
 ### ❌ Not Working
 - 📺 DRM (FairPlay, iTunes, Apple TV+)
-- 🌙 Display wake from sleep
+
 
 ---
 
@@ -45,6 +45,13 @@
 - As you know Apple has remove **AppleHDA.kext** after Tahoe Beta 1 and you need to installed via <a herf="https://github.com/Mirone/MyKextInstaller">MyKextInstaller</as>. Note: You need to install KDK from **MyKextInstaller** first. The required configuration in OpenCore is already applied.
 - Still testing **Intel ME** and **chipset details**. You can't use igfxfw=2 to force loading Apple GuC for higher clock rate of iGPU.
 - Contributions and fixes welcome!
+- Lastly for fixing sleep you have run this commands: ```
+sudo pmset autopoweroff 0
+sudo pmset powernap 0
+sudo pmset standby 0
+sudo pmset proximitywake 0
+sudo pmset tcpkeepalive 0
+```
 
 ---
 
